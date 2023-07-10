@@ -1,5 +1,6 @@
 {
-  "name": "rytr-openai-client",
+  "name": "openai-client",
+  "author": "Nicholas Blackburn",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

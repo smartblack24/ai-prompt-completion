@@ -1,5 +1,6 @@
 {
-  "name": "rytr-openai-server",
+  "name": "openai-server",
+  "author": "Nicholas Blackburn",
   "version": "0.1.0",
   "private": true,
   "scripts": {
